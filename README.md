@@ -1,6 +1,6 @@
 ![](header.png?raw=true)
 
-A general purpose tool suite for the Retro Engine (versions 1-5). a
+A general purpose tool suite for the Retro Engine (versions 1-5).
 
 Available tools:
 - Datapack Unpacker/Repacker
