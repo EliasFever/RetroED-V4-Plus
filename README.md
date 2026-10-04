@@ -15,7 +15,7 @@ Available tools:
 - UserDB Manager (v5)
 - RSV Manager (v2)
 
-# **SUPPORT THE DEVELOPERS OF THE RETRO ENGINE**
+# **SUPPORT THE DEVELOPERS OF THE RETRO ENGINE!**
 We do not own the Retro Engine in any way, shape or form, and this project would not have been possible had they not developed RSDK in the first place. Retro Engine is currently owned by [Evening Star](https://eveningstar.studio/); we highly urge you to follow & support their projects if you enjoyed this project of ours!
 
 # How to Build
